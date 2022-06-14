@@ -15,7 +15,7 @@ Público gamer entre 15 a 40 años
 
 # Páginas de referencia 
 
-* [FullH4rd](fullh4rd.com.ar) : por la funcionalidad y estética de la página
+* [FullH4rd](https://www.fullh4rd.com.ar/): por la funcionalidad y estética de la página
 
 * [Maldito Hard](malditohard.com.ar) : por la estética visual de la página 
 
