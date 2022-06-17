@@ -3,11 +3,11 @@
 * **¿Qué productos o servicios brindará nuestro sitio?** 
 
 Componentes de PC, periféricos, dispositivos de audio, monitores 
-sillas gamer/de oficina, productos de conectividad, 
+sillas gamer/de oficina, productos de conectividad.
 
 * **Público objetivo:**
 
-Público gamer entre 15 a 40 años 
+Público general entre 15 a 40 años 
 
 * **¿Cómo ajustaremos nuestra oferta al público?**
 
