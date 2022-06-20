@@ -2,7 +2,7 @@
 
 * **¿Qué productos o servicios brindará nuestro sitio?** 
 
-Componentes de PC, periféricos, dispositivos de audio, monitores 
+Componentes de PC, periféricos, dispositivos de audio, monitores, 
 sillas gamer/de oficina, productos de conectividad.
 
 * **Público objetivo:**
