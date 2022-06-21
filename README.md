@@ -39,7 +39,7 @@ quiero seguir expandiendo mis conocimientos en diferentes ámbitos de la inform�
 
 * **Santiago Salazar**: Tengo 27 años, me gusta hacer deporte y salir a conocer nuevos lugares, en la programación soy nuevo, por lo que tengo pocos conceptos, pero con las ganas de profundizarme más en el tema.
 
-#Links
+# Links
 
 * **Nuesto Trello**: [https://trello.com/b/gLUqtMSw/compuspace](https://trello.com/b/gLUqtMSw/compuspace)
 * **Wireframes**: [https://www.figma.com/file/cwYL3bAHbKHuFix0AxoIDe/Wireframes-CompuSpace-DH?node-id=0%3A1](https://www.figma.com/file/cwYL3bAHbKHuFix0AxoIDe/Wireframes-CompuSpace-DH?node-id=0%3A1)
