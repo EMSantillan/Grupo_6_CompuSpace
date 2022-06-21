@@ -35,6 +35,6 @@ quiero seguir expandiendo mis conocimientos en diferentes ámbitos de la inform�
 
 * **Gabriel Azcarete**: 
 
-* **Marcos Rivero**: tengo 19 años. Me gusta mucho el basquet, disfruto mucho viendo partidos de la NBA. Me gustan los gatos. Conoci la programacion en el colegio y me llama la atencion la cantidad de salidas laborales que esta misma ofrece.
+* **Marcos Rivero**: 
 
-* **Santiago Salazar**: 
+* **Santiago Salazar**: Tengo 27 años, me gusta hacer deporte y salir a conocer nuevos lugares, en la programación soy nuevo, por lo que tengo pocos conceptos, pero con las ganas de profundizarme más en el tema.
